@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : S:\davetetlow-PowerCutMonitor\Design-Files\PowerCutMonitor-v1.0 (Contactless Version)\PowerCutMonitor-v1.0.PcbDoc
+Date         : 4/25/2025
+Time         : 4:18:23 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 56.25%
+    Connections, 112
+    Connections routed, 63
+    Connections remaining, 49
+count : 4
+
+Net Track Width, Count
+    10mils, 26
+    103.767mils, 1
+count : 2
