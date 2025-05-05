@@ -10,3 +10,4 @@ Below are the core features needed from the product:
     - Battery value (only to be reported when battery goes below 20%)
 - The device form factor should be smallest possible.
 - The device should be very power efficient.
+- The device should have a toggle switch to allow user to turn Power ON/OFF.
