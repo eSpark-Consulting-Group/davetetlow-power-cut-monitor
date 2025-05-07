@@ -2,16 +2,27 @@
 FileName = PowerCutMonitor-v1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fabrication_Layer
-      File : PowerCutMonitor-v1.0.GM6
+Generating : Top Overlay
+      File : PowerCutMonitor-v1.0.GTO
 
-    Adding Layer      : Fabrication_Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
-    D66
-    D92
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************
@@ -43,8 +54,10 @@ Used DCodes :
     D40
     D41
     D42
-    D84
-    D85
+    D87
+    D88
+    D89
+    D90
 *************************************************************
 
 *************************************************************
@@ -57,31 +70,11 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D84
-    D85
     D87
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PowerCutMonitor-v1.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PowerCutMonitor-v1.0.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
+    D88
+    D89
+    D90
+    D92
 *************************************************************
 
 *************************************************************
@@ -118,45 +111,8 @@ Used DCodes :
     D62
     D63
     D64
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PowerCutMonitor-v1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D87
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PowerCutMonitor-v1.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
+    D65
+    D66
 *************************************************************
 
 *************************************************************
@@ -171,6 +127,60 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : PowerCutMonitor-v1.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+    D66
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PowerCutMonitor-v1.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PowerCutMonitor-v1.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Fabrication_Layer
+      File : PowerCutMonitor-v1.0.GM6
+
+    Adding Layer      : Fabrication_Layer
+
+
+Used DCodes :
+    D10
+    D68
+    D96
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : PowerCutMonitor-v1.0.GBL
 
@@ -180,14 +190,15 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D66
-    D84
-    D85
-    D86
+    D68
     D87
     D88
     D89
     D90
+    D91
+    D92
+    D93
+    D94
 *************************************************************
 
 *************************************************************
@@ -219,8 +230,6 @@ Used DCodes :
     D40
     D41
     D42
-    D65
-    D66
     D67
     D68
     D69
@@ -241,22 +250,10 @@ Used DCodes :
     D84
     D85
     D86
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PowerCutMonitor-v1.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D63
-    D64
+    D87
+    D88
+    D89
+    D90
     D91
 *************************************************************
 
@@ -294,6 +291,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : PowerCutMonitor-v1.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D92
+*************************************************************
+
+*************************************************************
 Generating : Drill Drawing
       File : PowerCutMonitor-v1.0.GD1
 
@@ -305,8 +317,8 @@ Generating : Drill Drawing
 Used DCodes :
     D10
     D11
-    D66
-    D93
+    D68
+    D97
 *************************************************************
 
 *************************************************************
@@ -328,6 +340,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D94
+    D98
 *************************************************************
 
