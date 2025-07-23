@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MonitorPCB-v1.1.PcbDoc   7/23/2025  4:23:04 PM
+NCDrill File Report For: MonitorPCB-v1.1.PcbDoc   7/23/2025  6:21:26 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : MonitorPCB-v1.1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             56        PTH        13.21inch (335.61mm)
+T1      12mil (0.3mm)                                             Round             58        PTH        13.84inch (351.51mm)
 T2      32mil (0.8mm)                                             Round             16        PTH        1.90inch (48.26mm)
 T3      39mil (1mm)                                               Round             9         PTH        4.14inch (105.27mm)
 T4      67mil (1.7mm)                                             Round             3         PTH        0.37inch (9.40mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              84
+Totals                                                                              86
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -5,8 +5,8 @@ D:\eSpark-Consultants\davetetlow-PowerCutMonitor\Design-Files\PowerCutMonitor-v1
 File Design Information:
 
 Date:       23/07/25
-Time:       16:10
-Revision:   67196b75aa4a7c969ff93ad562f4dcfff7736937
+Time:       18:15
+Revision:   bdf5b938d02e406d30ba04ca0553de808312133e
 Variant:    No variations
 Units used: mm
 
@@ -52,12 +52,14 @@ R11        TopLayer    68.8358mm    37.0726mm    0        68.8358mm  37.0726mm 6
 R12        TopLayer    72.7741mm    35.0279mm    270      72.7741mm  35.0279mm 72.7741mm  35.4978mm 
 R13        TopLayer    68.8358mm    35.4978mm    180      68.8358mm  35.4978mm 69.3057mm  35.4978mm 
 R14        TopLayer    74.3459mm    35.0279mm    90       74.3459mm  35.0279mm 74.3459mm  34.5580mm 
+R15        BottomLayer 54.3814mm    19.0627mm    270      54.3814mm  19.0627mm 54.3814mm  19.5326mm 
 SW1        TopLayer    8.1788mm     25.1543mm    90       8.1788mm   25.1543mm 8.1788mm   20.4543mm 
-SW2        TopLayer    86.8426mm    9.8565mm     180      86.8426mm  9.8565mm  88.5426mm  9.8565mm  
-SW3        TopLayer    80.6196mm    9.8565mm     0        80.6196mm  9.8565mm  78.9196mm  9.8565mm  
+SW2        TopLayer    84.5566mm    9.8565mm     180      84.5566mm  9.8565mm  86.2566mm  9.8565mm  
+SW3        TopLayer    78.3336mm    9.8565mm     0        78.3336mm  9.8565mm  76.6336mm  9.8565mm  
+SW4        TopLayer    90.7796mm    9.8565mm     0        90.7796mm  9.8565mm  89.0796mm  9.8565mm  
 TP1        BottomLayer 29.3583mm    15.5617mm    0        29.3583mm  15.5617mm 29.3583mm  15.5617mm 
 TP2        BottomLayer 29.3583mm    18.9617mm    0        29.3583mm  18.9617mm 29.3583mm  18.9617mm 
-TP3        TopLayer    76.6572mm    16.8750mm    270      76.6572mm  17.8750mm 76.6572mm  17.8750mm 
+TP3        TopLayer    69.5800mm    18.7452mm    180      70.5800mm  18.7452mm 70.5800mm  18.7452mm 
 U1         BottomLayer 43.6496mm    20.7546mm    0        34.8996mm  14.7546mm 34.8996mm  14.7546mm 
 U2         BottomLayer 10.2616mm    10.3378mm    0        10.2616mm  10.3378mm 9.0616mm   9.3878mm  
 U3         TopLayer    92.3036mm    24.8705mm    0        92.3036mm  24.8705mm 88.4936mm  33.7605mm 
