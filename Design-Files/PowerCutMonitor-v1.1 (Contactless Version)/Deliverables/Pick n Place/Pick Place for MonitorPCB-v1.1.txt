@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-D:\eSpark-Consultants\davetetlow-PowerCutMonitor\Design-Files\PowerCutMonitor-v1.1 (Contactless Version)\Project Outputs for PowerCutMonitor-v1.1\Pick Place for MonitorPCB-v1.1.txt
+D:\eSpark Consultants\davetetlow-PowerCutMonitor\Design-Files\PowerCutMonitor-v1.1 (Contactless Version)\Project Outputs for PowerCutMonitor-v1.1\Pick Place for MonitorPCB-v1.1.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       23/07/25
-Time:       18:15
-Revision:   bdf5b938d02e406d30ba04ca0553de808312133e
+Date:       06/08/25
+Time:       18:28
+Revision:   6bc7fb345b71595e780bd543218ace1954605c88
 Variant:    No variations
 Units used: mm
 
@@ -34,10 +34,13 @@ J2         TopLayer    69.8500mm    9.8955mm     180      69.8500mm  9.8955mm  7
 J3         TopLayer    147.3803mm   25.2178mm    0        147.3803mm 25.2178mm 147.3803mm 25.2178mm 
 L1         BottomLayer 17.3928mm    11.2378mm    90       17.3928mm  11.2378mm 17.3928mm  9.3878mm  
 LED1       TopLayer    87.3410mm    36.0543mm    180      87.3410mm  36.0543mm 88.0910mm  36.0543mm 
+LED2       TopLayer    78.1514mm    16.0274mm    180      78.1514mm  16.0274mm 76.5514mm  15.3524mm 
 Q1         BottomLayer 23.7109mm    28.3845mm    90       23.7109mm  28.3845mm 22.7109mm  27.4345mm 
 Q2         TopLayer    84.0510mm    40.5524mm    180      84.0510mm  40.5524mm 86.5910mm  40.5524mm 
 Q3         BottomLayer 24.4129mm    31.7541mm    270      24.4129mm  31.7541mm 24.9879mm  32.1541mm 
 Q4         TopLayer    70.9059mm    40.5524mm    180      70.9059mm  40.5524mm 73.4459mm  40.5524mm 
+Q5         TopLayer    83.0326mm    22.1530mm    180      83.0326mm  22.1530mm 83.9826mm  23.1530mm 
+Q6         TopLayer    83.0326mm    16.3524mm    180      83.0326mm  16.3524mm 83.9826mm  17.3524mm 
 R1         BottomLayer 30.7594mm    17.1745mm    270      30.7594mm  17.1745mm 30.7594mm  17.6444mm 
 R2         BottomLayer 54.3814mm    17.2847mm    270      54.3814mm  17.2847mm 54.3814mm  17.7546mm 
 R3         BottomLayer 32.4612mm    23.2847mm    270      32.4612mm  23.2847mm 32.4612mm  23.7546mm 
@@ -53,10 +56,14 @@ R12        TopLayer    72.7741mm    35.0279mm    270      72.7741mm  35.0279mm 7
 R13        TopLayer    68.8358mm    35.4978mm    180      68.8358mm  35.4978mm 69.3057mm  35.4978mm 
 R14        TopLayer    74.3459mm    35.0279mm    90       74.3459mm  35.0279mm 74.3459mm  34.5580mm 
 R15        BottomLayer 54.3814mm    19.0627mm    270      54.3814mm  19.0627mm 54.3814mm  19.5326mm 
+R16        TopLayer    80.2005mm    19.4915mm    180      80.2005mm  19.4915mm 80.6704mm  19.4915mm 
+R17        TopLayer    80.2005mm    18.3388mm    180      80.2005mm  18.3388mm 80.6704mm  18.3388mm 
+R18        TopLayer    85.6488mm    22.6831mm    90       85.6488mm  22.6831mm 85.6488mm  22.2132mm 
+R19        TopLayer    85.6370mm    16.8825mm    270      85.6370mm  16.8825mm 85.6370mm  17.3524mm 
 SW1        TopLayer    8.1788mm     25.1543mm    90       8.1788mm   25.1543mm 8.1788mm   20.4543mm 
 SW2        TopLayer    84.5566mm    9.8565mm     180      84.5566mm  9.8565mm  86.2566mm  9.8565mm  
-SW3        TopLayer    78.3336mm    9.8565mm     0        78.3336mm  9.8565mm  76.6336mm  9.8565mm  
-SW4        TopLayer    90.7796mm    9.8565mm     0        90.7796mm  9.8565mm  89.0796mm  9.8565mm  
+SW3        TopLayer    90.7796mm    9.8565mm     0        90.7796mm  9.8565mm  89.0796mm  9.8565mm  
+SW4        TopLayer    78.3336mm    9.8565mm     0        78.3336mm  9.8565mm  76.6336mm  9.8565mm  
 TP1        BottomLayer 29.3583mm    15.5617mm    0        29.3583mm  15.5617mm 29.3583mm  15.5617mm 
 TP2        BottomLayer 29.3583mm    18.9617mm    0        29.3583mm  18.9617mm 29.3583mm  18.9617mm 
 TP3        TopLayer    69.5800mm    18.7452mm    180      70.5800mm  18.7452mm 70.5800mm  18.7452mm 
